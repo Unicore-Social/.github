@@ -58,5 +58,6 @@ We collaborate with:
 🌐 **Website:** [https://unicore.social](https://unicore.social)
 
 Made with ❤️ by Team Unicore
+
 **Unicore Social © 2025 — All rights reserved.**  
 _A new generation of connection starts here._
