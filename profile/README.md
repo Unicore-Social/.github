@@ -1,8 +1,5 @@
 # 🦄 Unicore Social
 
-> **The connected future of universities.**  
-> Bridging students, alumni, and institutions through verified, intelligent, and privacy-driven networks.
-
 ---
 
 ## 🌍 About Us
