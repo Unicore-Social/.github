@@ -1,7 +1,5 @@
 # 🦄 Unicore Social
 
----
-
 ## 🌍 About Us
 
 **Unicore Social** is a technology company building the first **comprehensive university network platform** in Turkey — designed to connect every student, alumni, and campus organization under one verified ecosystem.
