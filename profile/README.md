@@ -59,7 +59,7 @@ We collaborate with:
 - **Brands & Partners** — for events, career opportunities, and student engagement  
 - **Developers** — passionate about social platforms, privacy, and large-scale systems  
 
-📩 **Contact:** partnerships@unicore.social  
+📩 **Contact:** team@unicore.social  
 🌐 **Website:** [https://unicore.social](https://unicore.social)
 
 Made with ❤️ by Team Unicore
